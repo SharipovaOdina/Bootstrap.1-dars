@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(#ff5534, #b83b3b);
+}
+.luna{
+    border-radius: 5px;
+    max-width: 1200px;
+    height: 30px;
+    border: #ffbfba 1px solid;
+    background-color: #ff9283;
+    margin: 6px;
+    text-align: center;
+    padding-top: 10px;
+}
